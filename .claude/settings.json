@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "bash \"$CLAUDE_PROJECT_DIR/.claude/hooks/commit-daily.sh\"",
+            "timeout": 120,
+            "statusMessage": "日报：检测改动并提交推送中…"
+          }
+        ]
+      }
+    ]
+  }
+}
