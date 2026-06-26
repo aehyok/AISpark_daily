@@ -12,17 +12,19 @@ When this skill is invoked (by `/aispark-daily-grok` or matching intent), **imme
 ## User Mapping (exact nicknames)
 Use these exact nicknames in the output:
 
-- cheery9998 → cheery老师
 - MinLiBuilds → 实践哥
-- legacyvps → 小墨老师
-- Liu_zhongxisn → Drunk助教
 - Lonely__MH → L总
+- cheery9998 → cheery老师
 - xiangxiang103 → 雨哥老师
+- legacyvps → 小墨老师
 - alin_zone → 阿蔺老师
 - LawrenceW_Zen → 劳伦斯老师
+- Liu_zhongxisn → Drunk老师
 - ModengSir → 优秀学员勇哥
 - MainCaseZ → 优秀学员张总
+- jinglian → 前端哥老师
 - aehyok → AI少年老师
+
 
 ## Step-by-step Workflow
 
