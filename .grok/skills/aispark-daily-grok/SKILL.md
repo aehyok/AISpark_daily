@@ -16,7 +16,7 @@ Use these exact nicknames in the output:
 - Lonely__MH → L总
 - cheery9998 → cheery老师
 - xiangxiang103 → 雨哥老师
-- legacyvps → 小墨老师
+- xiaomovps → 小墨老师
 - alin_zone → 阿蔺老师
 - LawrenceW_Zen → 劳伦斯老师
 - Liu_zhongxisn → Drunk老师
@@ -40,7 +40,7 @@ Use these exact nicknames in the output:
    - `since:` 仍用昨天的日期（`since:YYYY-MM-DD`）即可，宁可多捞，过滤交给 `MIN_ID`。
 
 2. **Fetch posts for all members**
-   - For **each** of the 11 handles above, call the tool:
+   - For **each** handle in the mapping table above, call the tool:
      ```
      x_keyword_search
      query: from:HANDLE since:YYYY-MM-DD -filter:replies
